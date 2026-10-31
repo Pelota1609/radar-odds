@@ -1,0 +1,11 @@
+event_id,sport,event_name,market,selection,bookmaker,odds,observed_at
+f001,football,Atletico Demo vs Sevilla Demo,1X2,Atletico Demo,Casa Alfa,2.10,2026-11-01T12:00:00Z
+f001,football,Atletico Demo vs Sevilla Demo,1X2,Atletico Demo,Casa Beta,1.86,2026-11-01T12:00:08Z
+f001,football,Atletico Demo vs Sevilla Demo,1X2,Atletico Demo,Casa Gamma,1.85,2026-11-01T12:00:09Z
+f001,football,Atletico Demo vs Sevilla Demo,1X2,Atletico Demo,Casa Delta,1.87,2026-11-01T12:00:10Z
+t001,tennis,Player Demo A vs Player Demo B,moneyline,Player Demo A,Casa Alfa,1.75,2026-11-01T12:01:00Z
+t001,tennis,Player Demo A vs Player Demo B,moneyline,Player Demo A,Casa Beta,1.73,2026-11-01T12:01:03Z
+t001,tennis,Player Demo A vs Player Demo B,moneyline,Player Demo A,Casa Gamma,1.74,2026-11-01T12:01:04Z
+b001,basketball,Team Demo C vs Team Demo D,moneyline,Team Demo C,Casa Alfa,1.92,2026-11-01T12:02:00Z
+b001,basketball,Team Demo C vs Team Demo D,moneyline,Team Demo C,Casa Beta,1.90,2026-11-01T12:02:03Z
+b001,basketball,Team Demo C vs Team Demo D,moneyline,Team Demo C,Casa Gamma,1.91,2026-11-01T12:02:04Z
